@@ -20,3 +20,14 @@ let stringNumber = String(someNumber)
 console.log(someNumber);
 console.log(typeof stringNumber);
 
+//********************operations******************/
+
+let value=3
+let negValue=-value;
+console.log(negValue);
+ let str1="hello"
+ let st2= "hi"
+ let str3=str1+st2
+ console.log(str3);
+ 
+ 
