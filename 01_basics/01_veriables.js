@@ -4,5 +4,5 @@ var accountPassword="1234"
 accountCity="Ranchi"
 accountEmail = "heuen@gmail.com"
 accountPassword="8499949"
-acountCity="gujrat"
-comsole.table([accontEmail,accontId,accountPassword])
+accountCity="gujrat"
+console.table([accountEmail,accountId,accountPassword])
